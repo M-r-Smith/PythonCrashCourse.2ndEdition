@@ -1,0 +1,2 @@
+# Syntax errors are when python doesn't recognize a section of your program as valid Python code.
+# If we run the program as is or with an false syntax the program does not compile and execute properly.

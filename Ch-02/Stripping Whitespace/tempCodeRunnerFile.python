@@ -1,0 +1,4 @@
+#python makes it easy to eliminate whitespace
+#To make sure there is no whitespace at the end of a string, use the rstrip() method.
+
+print("python")
